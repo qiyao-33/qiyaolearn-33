@@ -14,6 +14,7 @@ desktop.ini
 *.bak
 *~
 *.log
+~$*
 
 # 个人隐私/未授权内容
 private/

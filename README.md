@@ -16,7 +16,7 @@
 ## 目录结构
 
 ```
-final-exam-review-hub/
+qiyaolearn-33/
 ├── 高等数学/
 │   ├── 历年试卷/
 │   └── 复习笔记/
@@ -44,8 +44,8 @@ final-exam-review-hub/
 
 ### 克隆仓库
 ```bash
-git clone https://github.com/<你的用户名>/final-exam-review-hub.git
-cd final-exam-review-hub
+git clone https://github.com/qiyao-33/qiyaolearn-33.git
+cd qiyaolearn-33
 ```
 
 ## 如何贡献
