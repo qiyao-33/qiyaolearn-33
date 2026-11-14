@@ -16,7 +16,7 @@
 ## 目录结构
 
 ```
-qiyaolearn-33/
+final-exam-review-hub/
 ├── 高等数学/
 │   ├── 历年试卷/
 │   └── 复习笔记/
